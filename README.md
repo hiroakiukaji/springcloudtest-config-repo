@@ -1,0 +1,2 @@
+# springcloudtest-config-repo
+(´･_･`)
