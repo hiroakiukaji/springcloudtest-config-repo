@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    hystrix:
+      testvalue: 3700000
+  
