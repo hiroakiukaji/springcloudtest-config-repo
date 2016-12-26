@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    hystrixfallback:
+      dummyunixtime: 2147483647
